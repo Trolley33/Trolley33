@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on [https://github.com/Trolley33/cook-book](CookBook) my University final project - a recipe sharing and saving site.
+- 🔭 I’m currently working on [Cookbook](https://github.com/Trolley33/cook-book) my University final project - a recipe sharing and saving site.
 - 🌱 I’m currently learning `Vue`, `TailwindCSS`, `Laravel`, `C++`, `vim`.
-- 💬 Ask me about [https://github.com/Trolley33/markitdown](My Markdown note keeping app.)
+- 💬 Ask me about [my Markdown note keeping app.](https://github.com/Trolley33/markitdown)
