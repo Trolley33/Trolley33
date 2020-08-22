@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on [Cookbook](https://github.com/Trolley33/cook-book) my University final project - a recipe sharing and saving site.
-- 🌱 I’m currently learning `Vue`, `TailwindCSS`, `Laravel`, `C++`, `nim`.
+- 🌱 I’m currently learning `Vue`, `TailwindCSS`, `Laravel`, `C++`, `Rust`.
 - 💬 Ask me about [my Markdown note keeping app](https://github.com/Trolley33/markitdown)
 - 🌐 Check out my [portfolio](https://reecetrolley.com/)
